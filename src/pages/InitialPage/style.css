@@ -1,0 +1,5 @@
+.card {
+  max-height: 90vh;
+  overflow-y: auto;
+  margin-top: 5vh;
+}
